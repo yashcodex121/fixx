@@ -1,0 +1,357 @@
+[11-Jun-26 05:53:41 - INFO] - SHUKLAMUSIC.core.mongo - Connecting to your Mongo Database...
+[11-Jun-26 05:53:41 - INFO] - SHUKLAMUSIC.core.mongo - Connected to your Mongo Database.
+[11-Jun-26 05:53:41 - INFO] - SHUKLAMUSIC.core.dir - Directories Updated.
+[11-Jun-26 05:53:41 - INFO] - SHUKLAMUSIC.core.git - Git Client Found [VPS DEPLOYER]
+[11-Jun-26 05:53:41 - INFO] - SHUKLAMUSIC.misc - 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘 𝗟𝗢𝗔𝗗 𝗕𝗔𝗕𝗬🍫........
+[11-Jun-26 05:53:41 - INFO] - SHUKLAMUSIC.core.bot - Starting Bot...
+[11-Jun-26 05:54:14 - INFO] - SHUKLAMUSIC.core.mongo - Connecting to your Mongo Database...
+[11-Jun-26 05:54:14 - INFO] - SHUKLAMUSIC.core.mongo - Connected to your Mongo Database.
+[11-Jun-26 05:54:14 - INFO] - SHUKLAMUSIC.core.dir - Directories Updated.
+[11-Jun-26 05:54:14 - INFO] - SHUKLAMUSIC.core.git - Git Client Found [VPS DEPLOYER]
+[11-Jun-26 05:54:14 - INFO] - SHUKLAMUSIC.misc - 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘 𝗟𝗢𝗔𝗗 𝗕𝗔𝗕𝗬🍫........
+[11-Jun-26 05:54:14 - INFO] - SHUKLAMUSIC.core.bot - Starting Bot...
+[11-Jun-26 05:54:16 - INFO] - SHUKLAMUSIC.misc - 𝗦𝗨𝗗𝗢 𝗨𝗦𝗘𝗥 𝗗𝗢𝗡𝗘✨🎋.
+[11-Jun-26 05:54:23 - INFO] - SHUKLAMUSIC.core.bot - Music Bot Started Successfully as ˹ 𝐑ᴀᴅʜᴀ ꭙ 𝐌ᴜꜱɪᴄ ♪˼ [ ɴᴏ ᴀᴅs ]
+[11-Jun-26 05:55:46 - INFO] - SHUKLAMUSIC.core.mongo - Connecting to your Mongo Database...
+[11-Jun-26 05:55:46 - INFO] - SHUKLAMUSIC.core.mongo - Connected to your Mongo Database.
+[11-Jun-26 05:55:46 - INFO] - SHUKLAMUSIC.core.dir - Directories Updated.
+[11-Jun-26 05:55:46 - INFO] - SHUKLAMUSIC.core.git - Git Client Found [VPS DEPLOYER]
+[11-Jun-26 05:55:46 - INFO] - SHUKLAMUSIC.misc - 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘 𝗟𝗢𝗔𝗗 𝗕𝗔𝗕𝗬🍫........
+[11-Jun-26 05:55:46 - INFO] - SHUKLAMUSIC.core.bot - Starting Bot...
+[11-Jun-26 05:55:48 - INFO] - SHUKLAMUSIC.misc - 𝗦𝗨𝗗𝗢 𝗨𝗦𝗘𝗥 𝗗𝗢𝗡𝗘✨🎋.
+[11-Jun-26 05:55:55 - INFO] - SHUKLAMUSIC.core.bot - Music Bot Started Successfully as ˹ 𝐑ᴀᴅʜᴀ ꭙ 𝐌ᴜꜱɪᴄ ♪˼ [ ɴᴏ ᴀᴅs ]
+[11-Jun-26 05:55:56 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[11-Jun-26 05:55:56 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[11-Jun-26 05:55:56 - INFO] - apscheduler.scheduler - Added job "start_nightmode" to job store "default"
+[11-Jun-26 05:55:56 - INFO] - apscheduler.scheduler - Added job "close_nightmode" to job store "default"
+[11-Jun-26 05:55:56 - INFO] - apscheduler.scheduler - Scheduler started
+[11-Jun-26 05:55:57 - ERROR] - asyncio - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f655432ff20>
+[11-Jun-26 05:56:39 - INFO] - SHUKLAMUSIC.core.mongo - Connecting to your Mongo Database...
+[11-Jun-26 05:56:39 - INFO] - SHUKLAMUSIC.core.mongo - Connected to your Mongo Database.
+[11-Jun-26 05:56:39 - INFO] - SHUKLAMUSIC.core.dir - Directories Updated.
+[11-Jun-26 05:56:39 - INFO] - SHUKLAMUSIC.core.git - Git Client Found [VPS DEPLOYER]
+[11-Jun-26 05:56:39 - INFO] - SHUKLAMUSIC.misc - 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘 𝗟𝗢𝗔𝗗 𝗕𝗔𝗕𝗬🍫........
+[11-Jun-26 05:56:39 - INFO] - SHUKLAMUSIC.core.bot - Starting Bot...
+[11-Jun-26 05:56:41 - INFO] - SHUKLAMUSIC.misc - 𝗦𝗨𝗗𝗢 𝗨𝗦𝗘𝗥 𝗗𝗢𝗡𝗘✨🎋.
+[11-Jun-26 05:56:48 - INFO] - SHUKLAMUSIC.core.bot - Music Bot Started Successfully as ˹ 𝐑ᴀᴅʜᴀ ꭙ 𝐌ᴜꜱɪᴄ ♪˼ [ ɴᴏ ᴀᴅs ]
+[11-Jun-26 05:56:48 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[11-Jun-26 05:56:48 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[11-Jun-26 05:56:48 - INFO] - apscheduler.scheduler - Added job "start_nightmode" to job store "default"
+[11-Jun-26 05:56:48 - INFO] - apscheduler.scheduler - Added job "close_nightmode" to job store "default"
+[11-Jun-26 05:56:48 - INFO] - apscheduler.scheduler - Scheduler started
+[11-Jun-26 05:56:49 - ERROR] - asyncio - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f0f09570440>
+[11-Jun-26 05:58:21 - INFO] - SHUKLAMUSIC.core.mongo - Connecting to your Mongo Database...
+[11-Jun-26 05:58:21 - INFO] - SHUKLAMUSIC.core.mongo - Connected to your Mongo Database.
+[11-Jun-26 05:58:21 - INFO] - SHUKLAMUSIC.core.dir - Directories Updated.
+[11-Jun-26 05:58:21 - INFO] - SHUKLAMUSIC.core.git - Git Client Found [VPS DEPLOYER]
+[11-Jun-26 05:58:21 - INFO] - SHUKLAMUSIC.misc - 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘 𝗟𝗢𝗔𝗗 𝗕𝗔𝗕𝗬🍫........
+[11-Jun-26 05:58:21 - INFO] - SHUKLAMUSIC.core.bot - Starting Bot...
+[11-Jun-26 05:58:22 - INFO] - SHUKLAMUSIC.misc - 𝗦𝗨𝗗𝗢 𝗨𝗦𝗘𝗥 𝗗𝗢𝗡𝗘✨🎋.
+[11-Jun-26 05:58:31 - INFO] - SHUKLAMUSIC.core.bot - Music Bot Started Successfully as ˹ 𝐑ᴀᴅʜᴀ ꭙ 𝐌ᴜꜱɪᴄ ♪˼ [ ɴᴏ ᴀᴅs ]
+[11-Jun-26 05:58:31 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[11-Jun-26 05:58:31 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[11-Jun-26 05:58:31 - INFO] - apscheduler.scheduler - Added job "start_nightmode" to job store "default"
+[11-Jun-26 05:58:31 - INFO] - apscheduler.scheduler - Added job "close_nightmode" to job store "default"
+[11-Jun-26 05:58:31 - INFO] - apscheduler.scheduler - Scheduler started
+[11-Jun-26 05:58:31 - INFO] - SHUKLAMUSIC.plugins - 𝐀𝐥𝐥 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐋𝐨𝐚𝐝𝐞𝐝 𝐁𝐚𝐛𝐲🥳...
+[11-Jun-26 05:58:31 - INFO] - SHUKLAMUSIC.core.userbot - Starting Assistants...
+[11-Jun-26 05:58:32 - INFO] - SHUKLAMUSIC.core.userbot - Assistant Started as <a href=tg://user?id=6670240589>🍹𝆺𝅥⃝🤍 ‌‌ ●🇷 🇦 🇩 🇭 🇦 🇦 🇸 🇸 🇮 T🇦 🇳 T🤍𝆺꯭𝅥⎯꯭‌⎯꯭</a>
+[11-Jun-26 05:58:32 - INFO] - SHUKLAMUSIC.core.call - Starting PyTgCalls Client...
+
+[11-Jun-26 05:58:49 - INFO] - SHUKLAMUSIC - ╔═════ஜ۩۞۩ஜ════╗
+  ☠︎︎𝗠𝗔𝗗𝗘 𝗕𝗬 𝗠𝗥 𝗦𝗛𝗜𝗩𝗔𝗡𝗦𝗛
+╚═════ஜ۩۞۩ஜ════╝
+[11-Jun-26 06:04:54 - INFO] - SHUKLAMUSIC.core.bot - Stopping Bot...
+[11-Jun-26 06:04:54 - INFO] - SHUKLAMUSIC.core.userbot - Stopping Assistants...
+[11-Jun-26 06:04:54 - INFO] - SHUKLAMUSIC - 𝗦𝗧𝗢𝗣 𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥 𝗠𝗨𝗦𝗜𝗖🎻 𝗕𝗢𝗧..
+[11-Jun-26 06:04:54 - ERROR] - asyncio - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7fae403788c0>
+[11-Jun-26 06:04:54 - ERROR] - asyncio - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7fae1c74e600>
+[11-Jun-26 06:04:56 - INFO] - SHUKLAMUSIC.core.mongo - Connecting to your Mongo Database...
+[11-Jun-26 06:04:56 - INFO] - SHUKLAMUSIC.core.mongo - Connected to your Mongo Database.
+[11-Jun-26 06:04:56 - INFO] - SHUKLAMUSIC.core.dir - Directories Updated.
+[11-Jun-26 06:04:56 - INFO] - SHUKLAMUSIC.core.git - Git Client Found [VPS DEPLOYER]
+[11-Jun-26 06:04:56 - INFO] - SHUKLAMUSIC.misc - 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘 𝗟𝗢𝗔𝗗 𝗕𝗔𝗕𝗬🍫........
+[11-Jun-26 06:04:56 - INFO] - SHUKLAMUSIC.core.bot - Starting Bot...
+[11-Jun-26 06:04:58 - INFO] - SHUKLAMUSIC.misc - 𝗦𝗨𝗗𝗢 𝗨𝗦𝗘𝗥 𝗗𝗢𝗡𝗘✨🎋.
+[11-Jun-26 06:05:05 - INFO] - SHUKLAMUSIC.core.bot - Music Bot Started Successfully as ˹ 𝐑ᴀᴅʜᴀ ꭙ 𝐌ᴜꜱɪᴄ ♪˼ [ ɴᴏ ᴀᴅs ]
+[11-Jun-26 06:05:06 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[11-Jun-26 06:05:06 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[11-Jun-26 06:05:06 - INFO] - apscheduler.scheduler - Added job "start_nightmode" to job store "default"
+[11-Jun-26 06:05:06 - INFO] - apscheduler.scheduler - Added job "close_nightmode" to job store "default"
+[11-Jun-26 06:05:06 - INFO] - apscheduler.scheduler - Scheduler started
+[11-Jun-26 06:05:06 - INFO] - SHUKLAMUSIC.plugins - 𝐀𝐥𝐥 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐋𝐨𝐚𝐝𝐞𝐝 𝐁𝐚𝐛𝐲🥳...
+[11-Jun-26 06:05:06 - INFO] - SHUKLAMUSIC.core.userbot - Starting Assistants...
+[11-Jun-26 06:05:07 - INFO] - SHUKLAMUSIC.core.userbot - Assistant Started as <a href=tg://user?id=6670240589>🍹𝆺𝅥⃝🤍 ‌‌ ●🇷 🇦 🇩 🇭 🇦 🇦 🇸 🇸 🇮 T🇦 🇳 T🤍𝆺꯭𝅥⎯꯭‌⎯꯭</a>
+[11-Jun-26 06:05:07 - INFO] - SHUKLAMUSIC.core.call - Starting PyTgCalls Client...
+
+[11-Jun-26 06:05:18 - INFO] - SHUKLAMUSIC - ╔═════ஜ۩۞۩ஜ════╗
+  ☠︎︎𝗠𝗔𝗗𝗘 𝗕𝗬 𝗠𝗥 𝗦𝗛𝗜𝗩𝗔𝗡𝗦𝗛
+╚═════ஜ۩۞۩ஜ════╝
+[11-Jun-26 16:11:08 - INFO] - SHUKLAMUSIC.core.mongo - Connecting to your Mongo Database...
+[11-Jun-26 16:11:08 - INFO] - SHUKLAMUSIC.core.mongo - Connected to your Mongo Database.
+[11-Jun-26 16:11:08 - INFO] - SHUKLAMUSIC.core.dir - Directories Updated.
+[11-Jun-26 16:11:08 - INFO] - SHUKLAMUSIC.core.git - Git Client Found [VPS DEPLOYER]
+[11-Jun-26 16:11:08 - INFO] - SHUKLAMUSIC.misc - 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘 𝗟𝗢𝗔𝗗 𝗕𝗔𝗕𝗬🍫........
+[11-Jun-26 16:11:08 - INFO] - SHUKLAMUSIC.core.bot - Starting Bot...
+[11-Jun-26 16:14:12 - INFO] - SHUKLAMUSIC.core.mongo - Connecting to your Mongo Database...
+[11-Jun-26 16:14:12 - INFO] - SHUKLAMUSIC.core.mongo - Connected to your Mongo Database.
+[11-Jun-26 16:14:12 - INFO] - SHUKLAMUSIC.core.dir - Directories Updated.
+[11-Jun-26 16:14:12 - INFO] - SHUKLAMUSIC.core.git - Git Client Found [VPS DEPLOYER]
+[11-Jun-26 16:14:12 - INFO] - SHUKLAMUSIC.misc - 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘 𝗟𝗢𝗔𝗗 𝗕𝗔𝗕𝗬🍫........
+[11-Jun-26 16:14:12 - INFO] - SHUKLAMUSIC.core.bot - Starting Bot...
+[11-Jun-26 16:14:14 - INFO] - SHUKLAMUSIC.misc - 𝗦𝗨𝗗𝗢 𝗨𝗦𝗘𝗥 𝗗𝗢𝗡𝗘✨🎋.
+[11-Jun-26 16:14:23 - INFO] - SHUKLAMUSIC.core.bot - Music Bot Started Successfully as ˹ 𝐑ᴀᴅʜᴀ ꭙ 𝐌ᴜꜱɪᴄ ♪˼ [ ɴᴏ ᴀᴅs ]
+[11-Jun-26 16:14:58 - INFO] - SHUKLAMUSIC.core.mongo - Connecting to your Mongo Database...
+[11-Jun-26 16:14:58 - INFO] - SHUKLAMUSIC.core.mongo - Connected to your Mongo Database.
+[11-Jun-26 16:14:58 - INFO] - SHUKLAMUSIC.core.dir - Directories Updated.
+[11-Jun-26 16:14:58 - INFO] - SHUKLAMUSIC.core.git - Git Client Found [VPS DEPLOYER]
+[11-Jun-26 16:14:58 - INFO] - SHUKLAMUSIC.misc - 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘 𝗟𝗢𝗔𝗗 𝗕𝗔𝗕𝗬🍫........
+[11-Jun-26 16:14:58 - INFO] - SHUKLAMUSIC.core.bot - Starting Bot...
+[11-Jun-26 16:14:59 - INFO] - SHUKLAMUSIC.misc - 𝗦𝗨𝗗𝗢 𝗨𝗦𝗘𝗥 𝗗𝗢𝗡𝗘✨🎋.
+[11-Jun-26 16:15:10 - INFO] - SHUKLAMUSIC.core.bot - Music Bot Started Successfully as ˹ 𝐑ᴀᴅʜᴀ ꭙ 𝐌ᴜꜱɪᴄ ♪˼ [ ɴᴏ ᴀᴅs ]
+[11-Jun-26 16:15:10 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[11-Jun-26 16:15:10 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[11-Jun-26 16:15:10 - INFO] - apscheduler.scheduler - Added job "start_nightmode" to job store "default"
+[11-Jun-26 16:15:10 - INFO] - apscheduler.scheduler - Added job "close_nightmode" to job store "default"
+[11-Jun-26 16:15:10 - INFO] - apscheduler.scheduler - Scheduler started
+[11-Jun-26 16:16:13 - INFO] - SHUKLAMUSIC.core.mongo - Connecting to your Mongo Database...
+[11-Jun-26 16:16:13 - INFO] - SHUKLAMUSIC.core.mongo - Connected to your Mongo Database.
+[11-Jun-26 16:16:13 - INFO] - SHUKLAMUSIC.core.dir - Directories Updated.
+[11-Jun-26 16:16:13 - INFO] - SHUKLAMUSIC.core.git - Git Client Found [VPS DEPLOYER]
+[11-Jun-26 16:16:13 - INFO] - SHUKLAMUSIC.misc - 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘 𝗟𝗢𝗔𝗗 𝗕𝗔𝗕𝗬🍫........
+[11-Jun-26 16:16:13 - INFO] - SHUKLAMUSIC.core.bot - Starting Bot...
+[11-Jun-26 16:16:14 - INFO] - SHUKLAMUSIC.misc - 𝗦𝗨𝗗𝗢 𝗨𝗦𝗘𝗥 𝗗𝗢𝗡𝗘✨🎋.
+[11-Jun-26 16:16:23 - INFO] - SHUKLAMUSIC.core.bot - Music Bot Started Successfully as ˹ 𝐑ᴀᴅʜᴀ ꭙ 𝐌ᴜꜱɪᴄ ♪˼ [ ɴᴏ ᴀᴅs ]
+[11-Jun-26 16:16:23 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[11-Jun-26 16:16:23 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[11-Jun-26 16:16:23 - INFO] - apscheduler.scheduler - Added job "start_nightmode" to job store "default"
+[11-Jun-26 16:16:23 - INFO] - apscheduler.scheduler - Added job "close_nightmode" to job store "default"
+[11-Jun-26 16:16:23 - INFO] - apscheduler.scheduler - Scheduler started
+[11-Jun-26 16:16:24 - INFO] - SHUKLAMUSIC.plugins - 𝐀𝐥𝐥 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐋𝐨𝐚𝐝𝐞𝐝 𝐁𝐚𝐛𝐲🥳...
+[11-Jun-26 16:16:24 - INFO] - SHUKLAMUSIC.core.userbot - Starting Assistants...
+[11-Jun-26 16:16:25 - INFO] - SHUKLAMUSIC.core.userbot - Assistant Started as <a href=tg://user?id=6670240589>🍹𝆺𝅥⃝🤍 ‌‌ ●🇷 🇦 🇩 🇭 🇦 🇦 🇸 🇸 🇮 T🇦 🇳 T🤍𝆺꯭𝅥⎯꯭‌⎯꯭</a>
+[11-Jun-26 16:16:25 - INFO] - SHUKLAMUSIC.core.call - Starting PyTgCalls Client...
+
+[11-Jun-26 16:16:41 - INFO] - SHUKLAMUSIC - ╔═════ஜ۩۞۩ஜ════╗
+  ☠︎︎𝗠𝗔𝗗𝗘 𝗕𝗬 𝗠𝗥 𝗦𝗛𝗜𝗩𝗔𝗡𝗦𝗛
+╚═════ஜ۩۞۩ஜ════╝
+[11-Jun-26 16:32:12 - ERROR] - pyrogram.dispatcher - Replacement index 2 out of range for positional args tuple
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 373, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/runner/workspace/SHUKLAMUSIC/utils/decorators/language.py", line 55, in wrapper
+    return await mystic(_, CallbackQuery, language)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/SHUKLAMUSIC/plugins/bot/settings.py", line 97, in settings_back_markup
+    _["start_2"].format(CallbackQuery.from_user.mention, app.mention),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+IndexError: Replacement index 2 out of range for positional args tuple
+[09-Jul-26 11:01:52 - INFO] - SHUKLAMUSIC.core.mongo - Connecting to your Mongo Database...
+[09-Jul-26 11:01:52 - INFO] - SHUKLAMUSIC.core.mongo - Connected to your Mongo Database.
+[09-Jul-26 11:01:52 - INFO] - SHUKLAMUSIC.core.dir - Directories Updated.
+[09-Jul-26 11:01:52 - INFO] - SHUKLAMUSIC.core.git - Git Client Found [VPS DEPLOYER]
+[09-Jul-26 11:01:52 - INFO] - SHUKLAMUSIC.misc - 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘 𝗟𝗢𝗔𝗗 𝗕𝗔𝗕𝗬🍫........
+[09-Jul-26 11:01:52 - INFO] - SHUKLAMUSIC.core.bot - Starting Bot...
+[09-Jul-26 11:01:57 - INFO] - SHUKLAMUSIC.misc - 𝗦𝗨𝗗𝗢 𝗨𝗦𝗘𝗥 𝗗𝗢𝗡𝗘✨🎋.
+[09-Jul-26 11:02:03 - INFO] - SHUKLAMUSIC.core.bot - Music Bot Started Successfully as test radha music
+[09-Jul-26 11:02:04 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[09-Jul-26 11:02:04 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[09-Jul-26 11:02:04 - INFO] - apscheduler.scheduler - Added job "start_nightmode" to job store "default"
+[09-Jul-26 11:02:04 - INFO] - apscheduler.scheduler - Added job "close_nightmode" to job store "default"
+[09-Jul-26 11:02:04 - INFO] - apscheduler.scheduler - Scheduler started
+[09-Jul-26 11:02:09 - INFO] - SHUKLAMUSIC.plugins - 𝐀𝐥𝐥 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐋𝐨𝐚𝐝𝐞𝐝 𝐁𝐚𝐛𝐲🥳...
+[09-Jul-26 11:02:09 - INFO] - SHUKLAMUSIC.core.userbot - Starting Assistants...
+[09-Jul-26 11:02:10 - INFO] - SHUKLAMUSIC.core.userbot - Assistant Started as <a href=tg://user?id=8762430892>𝐌𝐎𝐇𝐈𝐓 // WINES</a>
+[09-Jul-26 11:02:10 - INFO] - SHUKLAMUSIC.core.call - Starting PyTgCalls Client...
+
+[09-Jul-26 11:02:26 - INFO] - SHUKLAMUSIC - ╔═════ஜ۩۞۩ஜ════╗
+  ☠︎︎𝗠𝗔𝗗𝗘 𝗕𝗬 𝗠𝗥 𝗦𝗛𝗜𝗩𝗔𝗡𝗦𝗛
+╚═════ஜ۩۞۩ஜ════╝
+[09-Jul-26 11:17:38 - INFO] - SHUKLAMUSIC.core.bot - Stopping Bot...
+[09-Jul-26 11:17:38 - INFO] - SHUKLAMUSIC.core.userbot - Stopping Assistants...
+[09-Jul-26 11:17:38 - INFO] - SHUKLAMUSIC - 𝗦𝗧𝗢𝗣 𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥 𝗠𝗨𝗦𝗜𝗖🎻 𝗕𝗢𝗧..
+[09-Jul-26 11:17:38 - ERROR] - asyncio - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f889c402000>
+[09-Jul-26 11:17:38 - ERROR] - asyncio - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f887cfe9b50>
+[09-Jul-26 11:17:46 - INFO] - SHUKLAMUSIC.core.mongo - Connecting to your Mongo Database...
+[09-Jul-26 11:17:46 - INFO] - SHUKLAMUSIC.core.mongo - Connected to your Mongo Database.
+[09-Jul-26 11:17:46 - INFO] - SHUKLAMUSIC.core.dir - Directories Updated.
+[09-Jul-26 11:17:46 - INFO] - SHUKLAMUSIC.core.git - Git Client Found [VPS DEPLOYER]
+[09-Jul-26 11:17:46 - INFO] - SHUKLAMUSIC.misc - 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘 𝗟𝗢𝗔𝗗 𝗕𝗔𝗕𝗬🍫........
+[09-Jul-26 11:17:46 - INFO] - SHUKLAMUSIC.core.bot - Starting Bot...
+[09-Jul-26 11:17:49 - INFO] - SHUKLAMUSIC.misc - 𝗦𝗨𝗗𝗢 𝗨𝗦𝗘𝗥 𝗗𝗢𝗡𝗘✨🎋.
+[09-Jul-26 11:17:55 - INFO] - SHUKLAMUSIC.core.bot - Music Bot Started Successfully as test radha music
+[09-Jul-26 11:17:56 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[09-Jul-26 11:17:56 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[09-Jul-26 11:17:56 - INFO] - apscheduler.scheduler - Added job "start_nightmode" to job store "default"
+[09-Jul-26 11:17:56 - INFO] - apscheduler.scheduler - Added job "close_nightmode" to job store "default"
+[09-Jul-26 11:17:56 - INFO] - apscheduler.scheduler - Scheduler started
+[09-Jul-26 11:17:57 - INFO] - SHUKLAMUSIC.plugins - 𝐀𝐥𝐥 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐋𝐨𝐚𝐝𝐞𝐝 𝐁𝐚𝐛𝐲🥳...
+[09-Jul-26 11:17:57 - INFO] - SHUKLAMUSIC.core.userbot - Starting Assistants...
+[09-Jul-26 11:17:58 - INFO] - SHUKLAMUSIC.core.userbot - Assistant Started as <a href=tg://user?id=8762430892>𝐌𝐎𝐇𝐈𝐓 // WINES</a>
+[09-Jul-26 11:17:58 - INFO] - SHUKLAMUSIC.core.call - Starting PyTgCalls Client...
+
+[09-Jul-26 11:18:14 - INFO] - SHUKLAMUSIC - ╔═════ஜ۩۞۩ஜ════╗
+  ☠︎︎𝗠𝗔𝗗𝗘 𝗕𝗬 𝗠𝗥 𝗦𝗛𝗜𝗩𝗔𝗡𝗦𝗛
+╚═════ஜ۩۞۩ஜ════╝
+[09-Jul-26 12:09:19 - ERROR] - pyrogram.dispatcher - Unexpected exception raised in CallbackQueryHandler:
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 444, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/runner/workspace/SHUKLAMUSIC/plugins/tools/quickgames.py", line 156, in tap_race_cb
+    await _add_coins(cb.from_user.id, cb.from_user.first_name, TAP_WIN_COINS)
+  File "/home/runner/workspace/SHUKLAMUSIC/plugins/tools/quickgames.py", line 35, in _add_coins
+    await _coins_db.insert_one({"user_id": user_id, "name": name, "coins": amount})
+  File "/nix/store/iizfzmqjdfvbyx82gqw92glb5zl6m4my-python3-3.12.12/lib/python3.12/concurrent/futures/thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pymongo/synchronous/collection.py", line 890, in insert_one
+    self._insert_one(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pymongo/synchronous/collection.py", line 830, in _insert_one
+    self._database.client._retryable_write(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 2113, in _retryable_write
+    return self._retry_with_session(retryable, func, s, bulk, operation, operation_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 1986, in _retry_with_session
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pymongo/_csot.py", line 125, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 2038, in _retry_internal
+    ).run()
+      ^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 2811, in run
+    res = self._read() if self._is_read else self._write()
+                                             ^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 3014, in _write
+    return self._func(self._session, conn, self._retryable)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pymongo/synchronous/collection.py", line 818, in _insert_command
+    result = conn.command(
+             ^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pymongo/synchronous/helpers.py", line 53, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pymongo/synchronous/pool.py", line 403, in command
+    return command(
+           ^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pymongo/synchronous/network.py", line 212, in command
+    helpers_shared._check_command_response(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pymongo/helpers_shared.py", line 284, in _check_command_response
+    raise OperationFailure(errmsg, code, response, max_wire_version)
+pymongo.errors.OperationFailure: cannot create a new collection -- already using 500 collections of 500, full error: {'ok': 0, 'errmsg': 'cannot create a new collection -- already using 500 collections of 500', 'code': 8000, 'codeName': 'AtlasError'}
+[09-Jul-26 12:12:04 - ERROR] - asyncio - Task exception was never retrieved
+future: <Task finished name='Task-4261' coro=<cmd_hot_vote.<locals>.close_vote() done, defined at /home/runner/workspace/SHUKLAMUSIC/plugins/tools/quickgames.py:327> exception=OperationFailure("cannot create a new collection -- already using 500 collections of 500, full error: {'ok': 0, 'errmsg': 'cannot create a new collection -- already using 500 collections of 500', 'code': 8000, 'codeName': 'AtlasError'}")>
+Traceback (most recent call last):
+  File "/home/runner/workspace/SHUKLAMUSIC/plugins/tools/quickgames.py", line 350, in close_vote
+    await _add_coins(uid, str(uid), HOT_WIN_COINS)
+  File "/home/runner/workspace/SHUKLAMUSIC/plugins/tools/quickgames.py", line 35, in _add_coins
+    await _coins_db.insert_one({"user_id": user_id, "name": name, "coins": amount})
+  File "/nix/store/iizfzmqjdfvbyx82gqw92glb5zl6m4my-python3-3.12.12/lib/python3.12/concurrent/futures/thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pymongo/synchronous/collection.py", line 890, in insert_one
+    self._insert_one(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pymongo/synchronous/collection.py", line 830, in _insert_one
+    self._database.client._retryable_write(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 2113, in _retryable_write
+    return self._retry_with_session(retryable, func, s, bulk, operation, operation_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 1986, in _retry_with_session
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pymongo/_csot.py", line 125, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 2038, in _retry_internal
+    ).run()
+      ^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 2811, in run
+    res = self._read() if self._is_read else self._write()
+                                             ^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 3014, in _write
+    return self._func(self._session, conn, self._retryable)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pymongo/synchronous/collection.py", line 818, in _insert_command
+    result = conn.command(
+             ^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pymongo/synchronous/helpers.py", line 53, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pymongo/synchronous/pool.py", line 403, in command
+    return command(
+           ^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pymongo/synchronous/network.py", line 212, in command
+    helpers_shared._check_command_response(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pymongo/helpers_shared.py", line 284, in _check_command_response
+    raise OperationFailure(errmsg, code, response, max_wire_version)
+pymongo.errors.OperationFailure: cannot create a new collection -- already using 500 collections of 500, full error: {'ok': 0, 'errmsg': 'cannot create a new collection -- already using 500 collections of 500', 'code': 8000, 'codeName': 'AtlasError'}
+[09-Jul-26 15:14:04 - INFO] - SHUKLAMUSIC.core.mongo - Connecting to your Mongo Database...
+[09-Jul-26 15:14:04 - INFO] - SHUKLAMUSIC.core.mongo - Connected to your Mongo Database.
+[09-Jul-26 15:14:04 - INFO] - SHUKLAMUSIC.core.dir - Directories Updated.
+[09-Jul-26 15:14:04 - INFO] - SHUKLAMUSIC.core.git - Git Client Found [VPS DEPLOYER]
+[09-Jul-26 15:14:04 - INFO] - SHUKLAMUSIC.misc - 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘 𝗟𝗢𝗔𝗗 𝗕𝗔𝗕𝗬🍫........
+[09-Jul-26 15:14:04 - INFO] - SHUKLAMUSIC.core.bot - Starting Bot...
+[09-Jul-26 15:14:09 - INFO] - SHUKLAMUSIC.misc - 𝗦𝗨𝗗𝗢 𝗨𝗦𝗘𝗥 𝗗𝗢𝗡𝗘✨🎋.
+[09-Jul-26 15:14:14 - INFO] - SHUKLAMUSIC.core.bot - Music Bot Started Successfully as test radha music
+[09-Jul-26 15:14:15 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[09-Jul-26 15:14:15 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[09-Jul-26 15:14:15 - INFO] - apscheduler.scheduler - Added job "start_nightmode" to job store "default"
+[09-Jul-26 15:14:15 - INFO] - apscheduler.scheduler - Added job "close_nightmode" to job store "default"
+[09-Jul-26 15:14:15 - INFO] - apscheduler.scheduler - Scheduler started
+[09-Jul-26 15:14:20 - INFO] - SHUKLAMUSIC.plugins - 𝐀𝐥𝐥 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐋𝐨𝐚𝐝𝐞𝐝 𝐁𝐚𝐛𝐲🥳...
+[09-Jul-26 15:14:20 - INFO] - SHUKLAMUSIC.core.userbot - Starting Assistants...
+[09-Jul-26 15:14:21 - INFO] - SHUKLAMUSIC.core.userbot - Assistant Started as <a href=tg://user?id=8762430892>𝐌𝐎𝐇𝐈𝐓 // WINES</a>
+[09-Jul-26 15:14:21 - INFO] - SHUKLAMUSIC.core.call - Starting PyTgCalls Client...
+
+[09-Jul-26 15:14:37 - INFO] - SHUKLAMUSIC - ╔═════ஜ۩۞۩ஜ════╗
+  ☠︎︎𝗠𝗔𝗗𝗘 𝗕𝗬 𝗠𝗥 𝗦𝗛𝗜𝗩𝗔𝗡𝗦𝗛
+╚═════ஜ۩۞۩ஜ════╝
+[10-Jul-26 03:00:01 - INFO] - SHUKLAMUSIC.core.mongo - Connecting to your Mongo Database...
+[10-Jul-26 03:00:01 - INFO] - SHUKLAMUSIC.core.mongo - Connected to your Mongo Database.
+[10-Jul-26 03:00:01 - INFO] - SHUKLAMUSIC.core.dir - Directories Updated.
+[10-Jul-26 03:00:01 - INFO] - SHUKLAMUSIC.core.git - Git Client Found [VPS DEPLOYER]
+[10-Jul-26 03:00:01 - INFO] - SHUKLAMUSIC.misc - 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘 𝗟𝗢𝗔𝗗 𝗕𝗔𝗕𝗬🍫........
+[10-Jul-26 03:00:01 - INFO] - SHUKLAMUSIC.core.bot - Starting Bot...
+[10-Jul-26 03:00:06 - INFO] - SHUKLAMUSIC.misc - 𝗦𝗨𝗗𝗢 𝗨𝗦𝗘𝗥 𝗗𝗢𝗡𝗘✨🎋.
+[10-Jul-26 03:00:12 - INFO] - SHUKLAMUSIC.core.bot - Music Bot Started Successfully as test radha music
+[10-Jul-26 03:00:12 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[10-Jul-26 03:00:12 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[10-Jul-26 03:00:12 - INFO] - apscheduler.scheduler - Added job "start_nightmode" to job store "default"
+[10-Jul-26 03:00:12 - INFO] - apscheduler.scheduler - Added job "close_nightmode" to job store "default"
+[10-Jul-26 03:00:12 - INFO] - apscheduler.scheduler - Scheduler started
+[10-Jul-26 03:00:17 - INFO] - SHUKLAMUSIC.plugins - 𝐀𝐥𝐥 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐋𝐨𝐚𝐝𝐞𝐝 𝐁𝐚𝐛𝐲🥳...
+[10-Jul-26 03:00:17 - INFO] - SHUKLAMUSIC.core.userbot - Starting Assistants...
+[10-Jul-26 03:00:19 - INFO] - SHUKLAMUSIC.core.userbot - Assistant Started as <a href=tg://user?id=8762430892>𝐌𝐎𝐇𝐈𝐓 // WINES</a>
+[10-Jul-26 03:00:19 - INFO] - SHUKLAMUSIC.core.call - Starting PyTgCalls Client...
+
+[10-Jul-26 03:00:37 - INFO] - SHUKLAMUSIC - ╔═════ஜ۩۞۩ஜ════╗
+  ☠︎︎𝗠𝗔𝗗𝗘 𝗕𝗬 𝗠𝗥 𝗦𝗛𝗜𝗩𝗔𝗡𝗦𝗛
+╚═════ஜ۩۞۩ஜ════╝
+[10-Jul-26 05:22:18 - INFO] - SHUKLAMUSIC.core.mongo - Connecting to your Mongo Database...
+[10-Jul-26 05:22:18 - INFO] - SHUKLAMUSIC.core.mongo - Connected to your Mongo Database.
+[10-Jul-26 05:22:18 - INFO] - SHUKLAMUSIC.core.dir - Directories Updated.
+[10-Jul-26 05:22:18 - INFO] - SHUKLAMUSIC.core.git - Git Client Found [VPS DEPLOYER]
+[10-Jul-26 05:22:18 - INFO] - SHUKLAMUSIC.misc - 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘 𝗟𝗢𝗔𝗗 𝗕𝗔𝗕𝗬🍫........
+[10-Jul-26 05:22:18 - INFO] - SHUKLAMUSIC.core.bot - Starting Bot...
+[10-Jul-26 05:22:22 - INFO] - SHUKLAMUSIC.misc - 𝗦𝗨𝗗𝗢 𝗨𝗦𝗘𝗥 𝗗𝗢𝗡𝗘✨🎋.
+[10-Jul-26 05:22:28 - INFO] - SHUKLAMUSIC.core.bot - Music Bot Started Successfully as test radha music
+[10-Jul-26 05:22:28 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[10-Jul-26 05:22:28 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[10-Jul-26 05:22:28 - INFO] - apscheduler.scheduler - Added job "start_nightmode" to job store "default"
+[10-Jul-26 05:22:28 - INFO] - apscheduler.scheduler - Added job "close_nightmode" to job store "default"
+[10-Jul-26 05:22:28 - INFO] - apscheduler.scheduler - Scheduler started
+[10-Jul-26 05:22:32 - INFO] - SHUKLAMUSIC.plugins - 𝐀𝐥𝐥 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐋𝐨𝐚𝐝𝐞𝐝 𝐁𝐚𝐛𝐲🥳...
+[10-Jul-26 05:22:32 - INFO] - SHUKLAMUSIC.core.userbot - Starting Assistants...
+[10-Jul-26 05:22:33 - INFO] - SHUKLAMUSIC.core.userbot - Assistant Started as <a href=tg://user?id=8762430892>𝐌𝐎𝐇𝐈𝐓 // WINES</a>
+[10-Jul-26 05:22:33 - INFO] - SHUKLAMUSIC.core.call - Starting PyTgCalls Client...
+
+[10-Jul-26 05:22:48 - INFO] - SHUKLAMUSIC - ╔═════ஜ۩۞۩ஜ════╗
+  ☠︎︎𝗠𝗔𝗗𝗘 𝗕𝗬 𝗠𝗥 𝗦𝗛𝗜𝗩𝗔𝗡𝗦𝗛
+╚═════ஜ۩۞۩ஜ════╝
