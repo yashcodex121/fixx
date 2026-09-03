@@ -20,6 +20,56 @@ def time_to_seconds(time):
     return sum(int(x) * 60 ** i for i, x in enumerate(reversed(stringt.split(":"))))
 
 
+async def _ytdlp_download_audio(video_id: str, file_path: str) -> str:
+    """Direct fallback: download audio straight from YouTube via yt-dlp,
+    no third-party API involved. Requires ffmpeg (already installed)."""
+    def _dl():
+        ydl_opts = {
+            "format": "bestaudio/best",
+            "outtmpl": os.path.join(DOWNLOAD_DIR, f"{video_id}.%(ext)s"),
+            "geo_bypass": True,
+            "nocheckcertificate": True,
+            "quiet": True,
+            "no_warnings": True,
+            "noplaylist": True,
+            "postprocessors": [
+                {
+                    "key": "FFmpegExtractAudio",
+                    "preferredcodec": "mp3",
+                    "preferredquality": "192",
+                }
+            ],
+        }
+        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+            ydl.download([f"https://www.youtube.com/watch?v={video_id}"])
+
+    await asyncio.get_event_loop().run_in_executor(None, _dl)
+    if os.path.exists(file_path) and os.path.getsize(file_path) > 0:
+        return file_path
+    return None
+
+
+async def _ytdlp_download_video(video_id: str, file_path: str) -> str:
+    """Direct fallback: download video straight from YouTube via yt-dlp."""
+    def _dl():
+        ydl_opts = {
+            "format": "best[ext=mp4][height<=?720]/best[height<=?720]/best",
+            "outtmpl": file_path,
+            "geo_bypass": True,
+            "nocheckcertificate": True,
+            "quiet": True,
+            "no_warnings": True,
+            "noplaylist": True,
+        }
+        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+            ydl.download([f"https://www.youtube.com/watch?v={video_id}"])
+
+    await asyncio.get_event_loop().run_in_executor(None, _dl)
+    if os.path.exists(file_path) and os.path.getsize(file_path) > 0:
+        return file_path
+    return None
+
+
 async def download_song(link: str) -> str:
     video_id = link.split("v=")[-1].split("&")[0] if "v=" in link else link
     if not video_id or len(video_id) < 3:
@@ -30,28 +80,41 @@ async def download_song(link: str) -> str:
     if os.path.exists(file_path) and os.path.getsize(file_path) > 0:
         return file_path
 
+    # 1) Try the fast third-party API first.
     try:
         async with aiohttp.ClientSession() as session:
             async with session.get(
                 f"{API_URL}/download",
                 params={"url": video_id, "type": "audio", "api_key": API_KEY},
-                timeout=aiohttp.ClientTimeout(total=300)
+                timeout=aiohttp.ClientTimeout(total=60)
             ) as resp:
-                if resp.status != 200:
-                    return None
-                with open(file_path, "wb") as f:
-                    async for chunk in resp.content.iter_chunked(131072):
-                        f.write(chunk)
+                if resp.status == 200:
+                    with open(file_path, "wb") as f:
+                        async for chunk in resp.content.iter_chunked(131072):
+                            f.write(chunk)
         if os.path.exists(file_path) and os.path.getsize(file_path) > 0:
             return file_path
-        return None
     except Exception:
-        if os.path.exists(file_path):
-            try:
-                os.remove(file_path)
-            except Exception:
-                pass
-        return None
+        pass
+    if os.path.exists(file_path):
+        try:
+            os.remove(file_path)
+        except Exception:
+            pass
+
+    # 2) API failed/down/rate-limited -> fall back to a direct yt-dlp download.
+    try:
+        result = await _ytdlp_download_audio(video_id, file_path)
+        if result:
+            return result
+    except Exception:
+        pass
+    if os.path.exists(file_path):
+        try:
+            os.remove(file_path)
+        except Exception:
+            pass
+    return None
 
 
 async def download_video(link: str) -> str:
@@ -64,28 +127,41 @@ async def download_video(link: str) -> str:
     if os.path.exists(file_path) and os.path.getsize(file_path) > 0:
         return file_path
 
+    # 1) Try the fast third-party API first.
     try:
         async with aiohttp.ClientSession() as session:
             async with session.get(
                 f"{API_URL}/download",
                 params={"url": video_id, "type": "video", "api_key": API_KEY},
-                timeout=aiohttp.ClientTimeout(total=600)
+                timeout=aiohttp.ClientTimeout(total=120)
             ) as resp:
-                if resp.status != 200:
-                    return None
-                with open(file_path, "wb") as f:
-                    async for chunk in resp.content.iter_chunked(131072):
-                        f.write(chunk)
+                if resp.status == 200:
+                    with open(file_path, "wb") as f:
+                        async for chunk in resp.content.iter_chunked(131072):
+                            f.write(chunk)
         if os.path.exists(file_path) and os.path.getsize(file_path) > 0:
             return file_path
-        return None
     except Exception:
-        if os.path.exists(file_path):
-            try:
-                os.remove(file_path)
-            except Exception:
-                pass
-        return None
+        pass
+    if os.path.exists(file_path):
+        try:
+            os.remove(file_path)
+        except Exception:
+            pass
+
+    # 2) API failed/down/rate-limited -> fall back to a direct yt-dlp download.
+    try:
+        result = await _ytdlp_download_video(video_id, file_path)
+        if result:
+            return result
+    except Exception:
+        pass
+    if os.path.exists(file_path):
+        try:
+            os.remove(file_path)
+        except Exception:
+            pass
+    return None
 
 
 class YouTubeAPI:
